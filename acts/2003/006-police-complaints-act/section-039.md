@@ -1,0 +1,10 @@
+Secrecy
+39. The Commission and every person concerned with the
+administration of this Act, shall regard as secret and confidential all
+documents, information or matters disclosed in the administration of this
+Act except that disclosures —
+(a) made by the Commission or any other person in proceedings for
+an offence under section 40; or
+(b) which the Commission considers necessary in the discharge of
+its functions,
+shall not be deemed inconsistent with any duty imposed under this section.

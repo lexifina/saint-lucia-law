@@ -1,0 +1,3 @@
+Funds of Commission
+13. The funds of the Commission shall consist of such sums as are
+appropriated to it by Parliament from time to time.
