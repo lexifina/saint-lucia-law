@@ -1,0 +1,1 @@
+12. Vacation and removal from office of Director
