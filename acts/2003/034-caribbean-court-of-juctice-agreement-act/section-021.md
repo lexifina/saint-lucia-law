@@ -1,0 +1,5 @@
+Registrar as Deputy Registrar
+21.— (1) The Registrar of the Supreme Court shall be a Deputy
+Registrar of the Court.
+(2) The Registry of the Supreme Court shall be designated a sub-
+Registry of the Court pursuant to the Rules of Court.
