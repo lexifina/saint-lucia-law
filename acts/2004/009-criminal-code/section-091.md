@@ -1,0 +1,10 @@
+Provocation
+91. Where on a charge of murder there is evidence on which the jury
+can find that the person charged was provoked (whether by things done
+or by things said or by both) to lose his or her self -control, the question
+whether the provocation was enough to make a reasonable person do as
+he or she did shall be left to be determined by the jury; and in determining
+
+the question the jury shall take into account everything both done and said
+according to the effect which in their opinion, it would have on a reasonable
+person.

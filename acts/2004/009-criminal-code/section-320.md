@@ -1,0 +1,7 @@
+Circumstances showing good faith
+320. If it is proved that the defamatory matter was published under
+such circumstances that the publication would have been justified if made
+in good faith, the publication shall be presumed to have been made in good
+faith unless the contrary is proved, either from the libel itself, or from the
+evidence given on behalf of the accused person or on the part of the
+prosecution.

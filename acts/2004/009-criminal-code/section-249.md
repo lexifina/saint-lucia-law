@@ -1,0 +1,6 @@
+Forgery of hall-mark or the like
+249. Any person who, with intent to defraud, forges or counterfeits
+any hall-mark or mark appointed, under authority of law, by any
+corporation or public officer to denote the weight, fineness, or age, or place
+of manufacture, of any gold or silver plate or bullion is liable on conviction
+on indictment to imprisonment for two years.

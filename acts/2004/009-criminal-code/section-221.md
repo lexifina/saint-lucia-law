@@ -1,0 +1,15 @@
+221.— (1) Where an officer of a body corporate or unincorporated
+association (or person purporting to act as such), with intent to deceive
+members or creditors of the body corporate or association about its affairs,
+publishes or concurs in publishing a written statement or account which to
+his or her knowledge is or may be misleading, false or deceptive in a
+material particular, he or she is liable on conviction on indictment to
+imprisonment for seven years.
+(2) For purposes of this section a person who has entered into a
+security for the  benefit of a body corporate or association is to be treated
+as a creditor of it.
+(3) Where the affairs of a body corporate or association are managed
+by its members, this section shall apply to any statement which a member
+publishes or concurs in publishing in connection with his or her functions
+of management as if he or she were an officer of the body corporate or
+association.
