@@ -1,0 +1,39 @@
+“THIRD   SCHEDULE
+POUNDAGE  ON  BRITISH
+POSTAL  ORDERS
+DENOMINATION
+POUNDAGE PAYABLE
+£0.50p
+£0.75p
+£1.00p
+£1.25p
+£2.00p
+£2.55p
+£3.00p
+£3.55p
+£4.00p
+£4.55p
+£5.00p
+£5.80p
+£6.00p
+£6.80p
+£7.00p
+£7.80p
+£8.00p
+£9.00p
+£9.00p
+£10.00p
+£10.00p
+£11.00p
+£15.00p
+£16.10p
+£20.00p
+£21.20p
+Made this 2nd day of December, 2003.
+ JAMES FLETCHER,
+      Secretary to the Cabinet.
+Post Office (Amendment) Regulations
+SAINT LUCIA
+PRINTED BY THE NATIONAL PRINTING CORPORATION
+CASTRIES
+[  Price : $1.00 ]
