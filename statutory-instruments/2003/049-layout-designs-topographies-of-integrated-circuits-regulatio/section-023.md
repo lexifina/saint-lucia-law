@@ -1,0 +1,7 @@
+Service by mail
+23. Any notice, application or other document sent to the Registrar
+by mail shall be deemed to have been given, made or filed at the time
+when it would be delivered in the ordinary course of the mail and in
+proving such sending, it shall be sufficient to prove that the letter
+containing such notice, application or other document was properly
+addressed and sent by registered mail.
