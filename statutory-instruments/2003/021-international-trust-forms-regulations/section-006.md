@@ -1,0 +1,3 @@
+6.
+Type of Trust: (Purpose/Charitable/Protective/Other)....................................
+Is this a Unit Trust established for a mutual fund?  ….....................………..
