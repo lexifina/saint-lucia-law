@@ -1,0 +1,18 @@
+Notice of sale by auction
+115.— (1) The Commissions shall not sell by auction a motor vehicle
+or trailer unless at least twenty-one days prior to the sale, he or she —
+(a) delivers a notice of sale to the registered address of the registered
+owner of the vehicle and any registered creditor; and
+
+(b) publishes a notice of sale in the Gazette and in two issues of a
+newspaper circulating in the Island.
+(2) The notice shall contain —
+(a) a description of the motor vehicle or trailer;
+(b) the name of the registered owner;
+(c) a statement of the manner and time within which the registered
+owner or registered creditor can obtain the release of the motor
+vehicle or trailer; and
+(d) a statement that if the registered owner or registered creditor
+does not exercise any of their rights under the Act, the
+Commissioner shall sell the motor vehicle by auction, and the
+date and venue of the proposed auction.
