@@ -1,0 +1,5 @@
+24. For the purpose of any right to retirement or invalidity benefit, a
+contribution paid after the due date shall be treated:
+(a) if paid before the expiration of six months next following the end
+of the year in which it became payable, as paid on the due date;
+(b) if paid at any other time, as not paid.
