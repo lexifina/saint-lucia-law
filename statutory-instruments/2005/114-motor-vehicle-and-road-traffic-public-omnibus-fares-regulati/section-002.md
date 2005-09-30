@@ -1,0 +1,3 @@
+Commencement
+2. These Regulations shall come into force on the 30th day of
+September, 2005.
