@@ -1,0 +1,8 @@
+325
+SAINT LUCIA
+STATUTORY INSTRUMENT, 2006, No. 117
+[ 3rd July, 2006 ]
+In exercise of the power conferred under sections 3 and 8 of the
+Tourism Incentives Act 1996, No. 7, the Minister responsible for
+Tourism, with the approval of Cabinet, makes this Order:
+Citation and commencement
