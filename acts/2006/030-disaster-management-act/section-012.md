@@ -1,0 +1,12 @@
+PART IV
+EMERGENCY OPERATIONS CENTRES AND SHELTERS
+Emergency Operations Centres
+12. The Director shall be responsible for the establishment and
+maintenance of a National Emergency Operations Centre to function
+as the headquarters of the activities undertaken in response to an
+emergency or disaster and may establish and maintain supplementary
+Emergency Operations Centres or facilitate the establishment and
+maintenance of such supplementary Emergency Operations Centres,
+whether distributed according to geographical location or local
+government unit or otherwise, by persons or bodies referred to in
+section 11 (3) (a).
