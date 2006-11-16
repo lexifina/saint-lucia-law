@@ -1,0 +1,18 @@
+THIRD SCHEDULE
+(Section 41)
+COMPLAINT
+Date _____________________
+Name of Complainant ___________________________________________________
+Address of Complainant _________________________________________________
+Contact Telephone No. ______________________
+Name of Non-Governmental Organization/member, officer, trustee or director
+of Non-Governmental Organization against whom the complaint is being made
+________________________________________________________________________
+Particulars of the complaint*______________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+*(Continue on a separate sheet if necessary and attach hereto)
+Received by __________________________________________________________
+Name and signature _____________________________________________________
+Date ______________
