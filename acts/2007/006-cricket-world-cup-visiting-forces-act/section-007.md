@@ -1,0 +1,5 @@
+Previous trial by service courts
+7. Where a member of a visiting force or a dependant of a member
+of a visiting force has been tried by a service court of that visiting force
+and has been convicted or acquitted, he or she may not be tried again
+by a civil court for the same offence.
