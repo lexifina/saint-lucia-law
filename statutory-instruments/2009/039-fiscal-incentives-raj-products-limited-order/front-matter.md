@@ -1,0 +1,7 @@
+217
+SAINT LUCIA
+STATUTORY INSTRUMENT, 2009, No. 39
+[ 30th March, 2009 ]
+In exercise of the powers conferred by sections 5 and 6 of the
+Fiscal Incentives Act, Cap.15.16, Cabinet makes the following Order:
+Citation
