@@ -1,0 +1,11 @@
+381
+Anse La Raye Village Council (Appointments) (Amendment) Notice
+SAINT LUCIA
+PRINTED BY THE  NATIONAL PRINTING CORPORATION
+CASTRIES
+2009
+[ Price : $0.50 ]
+SAINT LUCIA
+STATUTORY INSTRUMENT, 2009, No. 105
+[ 2nd November, 2009 ]
+Citation
