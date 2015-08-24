@@ -1,0 +1,1 @@
+45.  Exemption from income tax
