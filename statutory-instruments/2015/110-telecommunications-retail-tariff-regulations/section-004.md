@@ -1,0 +1,3 @@
+4. Commission to regulate tariff
+PART II
+ TARIFFS FOR TELECOMMUNICATIONS SERVICE
