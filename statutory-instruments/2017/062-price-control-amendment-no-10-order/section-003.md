@@ -1,0 +1,3 @@
+Commencement
+3. This Order shall come into force on the 3rd day of July, 2017.
+Price Control (Amendment) (No. 10) Order
