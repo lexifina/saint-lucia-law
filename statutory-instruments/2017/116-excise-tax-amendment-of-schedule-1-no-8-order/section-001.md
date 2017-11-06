@@ -1,0 +1,3 @@
+1.—(1) This Order may be cited as the Excise Tax (Amendment of
+Schedule 1) (No. 8) Order, 2017.
+(2)  This Order comes into force on the 6th day of November, 2017.
