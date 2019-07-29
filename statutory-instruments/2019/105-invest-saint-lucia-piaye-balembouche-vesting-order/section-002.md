@@ -1,0 +1,4 @@
+Vesting of land
+2. The land described in Schedule 1, Schedule 2, Schedule 3,
+Schedule 4 and Schedule 5, being land owned by Invest Saint Lucia
+is hereby vested in the Crown.
