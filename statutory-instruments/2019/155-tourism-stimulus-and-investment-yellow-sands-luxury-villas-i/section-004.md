@@ -1,0 +1,8 @@
+Declared benefit with regard to corporate tax
+4. Subject to section 5, the declared benefit with regard to corporate
+tax is a one hundred per cent waiver of corporate tax for a period of
+
+Tourism Stimulus and Investment
+(Yellow Sands Luxury Villas Inc.)Order
+ten years commencing from the 1st day of March, 2019 and terminating
+on the 28th day of February, 2029.
