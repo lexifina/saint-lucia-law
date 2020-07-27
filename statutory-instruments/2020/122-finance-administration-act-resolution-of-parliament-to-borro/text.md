@@ -1,0 +1,94 @@
+1367
+SAINT LUCIA
+STATUTORY INSTRUMENT, 2020, No. 122
+  [ 27th July, 2020 ]
+RESOLUTION
+WHEREAS it is provided by section 39(1) of the Finance
+(Administration) Act, Cap. 15.01 that the Minister of Finance may,
+by resolution of Parliament, borrow money from a bank or other
+financial institution for the capital expenditure of Government;
+AND WHEREAS it is further provided by section 42(1) of the said
+Act, that there shall be charged on and paid out of the Consolidated
+Fund debt charges for which the Government is liable;
+AND WHEREAS the Minister of Finance considers it necessary
+to borrow an amount of US$20,000,000.00 from the International
+Development Association for the purpose of financing the Caribbean
+Digital Transformation Project;
+AND WHEREAS the Maximum Commitment Charge Rate
+payable on the Unwithdrawn Financing Balance is one half of one
+per cent (1/2 of 1%) per annum;
+AND WHEREAS a Service Charge is payable on the Withdrawn
+Credit Balance that is equal to the greater of —
+
+(a)  the sum of three-fourths of one per cent (3/4 of 1% )per
+annum plus the Basis Adjustment to the Service Charge;
+and
+
+(b)  three-fourths of one per cent (3/4 of 1% ) per annum;
+AND WHEREAS the loan is repayable in forty years from the
+date of first disbursement of the loan inclusive of a ten year grace
+period;
+Finance (Administration) Act — Resolution of
+Parliament to borrow for capital expenditure — Caribbean Digital
+Transformation Project
+
+AND WHEREAS the principal amount of the loan is repayable
+on each 15th day of April and 15th day of October at a rate of —
+
+(a)  one per cent (1%) of the loan amount, commencing on
+the 15th day of October, 2030 to, and including, the 15th
+day of April, 2040; and
+
+(b)  two per cent (2%) of the loan amount, commencing on
+the 15th day of October, 2040 to, and including, the 15th
+day of April, 2060;
+BE IT RESOLVED that Parliament authorizes the Minister
+of Finance to borrow an amount of US$20,000,000.00 from the
+International Development Association for the purpose of financing
+the Caribbean Digital Transformation Project;
+BE IT FURTHER RESOLVED that —
+
+(a)  the Maximum Commitment Charge Rate payable on the
+Unwithdrawn Financing Balance is one half of one per
+cent (1/2 of 1%) per annum;
+
+(b)  a Service Charge is payable on the Withdrawn Credit
+Balance that is equal to the greater of —
+
+(i)  the sum of three-fourths of one per cent (3/4 of 1%)
+per annum plus the Basis Adjustment, and
+
+(ii)  three-fourths of one per cent (3/4 of 1%) per annum;
+
+(c)  the loan is repayable in forty years from the date of first
+disbursement of the loan inclusive of a ten year grace
+period;
+
+(d)  the principal amount of the loan is repayable on each
+15th day of April and 15th day of October at the rate of
+—
+
+(i)  one per cent (1%) of the loan amount, commencing
+on the 15th day of October, 2030 to, and including,
+the 15th day of April, 2040, and
+
+(ii)  two per cent (2%) of the loan amount, commencing
+on the 15th day of October, 2040 to, and including,
+the 15th day of April, 2060.
+Finance (Administration) Act — Resolution of
+Parliament to borrow for capital expenditure — Caribbean Digital
+Transformation Project
+
+Passed in the House of Assembly this 21st day of July, 2020.
+ANDY G. DANIEL,
+Speaker of the House of Assembly.
+Passed in the Senate this 23rd day of July, 2020.
+JEANNINE GIRAUDY-MCINTYRE,
+President of the Senate.
+Finance (Administration) Act — Resolution of
+Parliament to borrow for capital expenditure — Caribbean Digital
+Transformation Project
+SAINT LUCIA
+PRINTED BY THE  NATIONAL PRINTING CORPORATION
+CASTRIES
+                                                      2020                                        [ Price : $1.50 ]
