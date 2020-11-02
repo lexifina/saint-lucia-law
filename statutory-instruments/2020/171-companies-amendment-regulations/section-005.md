@@ -1,0 +1,3 @@
+5. Name and address of attorney(s)-at-law appointed under section
+    346 of the Companies Act, Cap. 13.01:
+.....................................................................................
