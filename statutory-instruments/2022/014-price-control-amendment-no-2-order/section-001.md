@@ -1,0 +1,3 @@
+1.—(1) This Order may be cited as the Price Control (Amendment)
+(No. 2) Order, 2022.
+(2) This Order comes into force on the 7th day of February, 2022.
