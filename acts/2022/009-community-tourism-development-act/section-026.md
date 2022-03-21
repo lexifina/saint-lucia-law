@@ -1,0 +1,7 @@
+Decisions of the Board
+26.—(1) Decisions of the Board shall be taken by a simple majority
+of votes of directors present and voting at the meeting.
+(2) The Chairperson has an original vote and in cases of equal
+division the Chairperson has the casting vote.
+(3) In the absence of the Chairperson and in the case of an
+equal division of votes, the Deputy Chairperson has the casting vote.
