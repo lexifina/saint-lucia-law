@@ -1,0 +1,6 @@
+22.  State whether the applicant company has ever been under any
+criminal investigation, prosecution, disciplinary action, public criticism
+or trade sanction in connection with banking and financial services in
+
+any member state of the Currency Union or elsewhere .................
+.....................................................................................
