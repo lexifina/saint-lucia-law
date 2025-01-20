@@ -1,0 +1,1 @@
+26. STATE WHETHER MACHINE WAS MOVED BY MECHANICAL POWER AT TIME OF ACCIDENT: _____________________________________
