@@ -1,0 +1,11 @@
+Eligibility
+2. Angelia Faith Nanan is declared eligible to be admitted by the
+High Court to the practice of law in Saint Lucia.
+Made this 1st day of April, 2026.
+  LESLIE VINCENT MONDESIR,
+Attorney General.
+Legal Profession (Eligibility) (Angelia Faith Nanan ) Order
+SAINT LUCIA
+PRINTED BY THE NATIONAL PRINTING CORPORATION
+CASTRIES
+                                                             2026                                       [ Price : $0.50 ]
