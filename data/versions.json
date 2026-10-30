@@ -1,0 +1,19 @@
+{
+ "country": "LC",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of Saint Lucia",
+   "url": "https://attorneygeneralchambers.com/laws-of-saint-lucia/constitution-of-saint-lucia",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 129,
+     "source_url": "https://attorneygeneralchambers.com/laws-of-saint-lucia/constitution-of-saint-lucia",
+     "sha256": "3c531ed629dc162e7d63d7296ce2926ac86198503d8fa3adce3064a111cac4e9"
+    }
+   ]
+  }
+ ]
+}

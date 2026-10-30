@@ -1,0 +1,10 @@
+{
+  "path": "lc",
+  "code": "LC",
+  "name": "Saint Lucia",
+  "level": "country",
+  "repo": "https://github.com/lexifina/saint-lucia-law",
+  "build": "built: Constitution of Saint Lucia (129 units: preamble, ss. 1-124 and 108A, Schedules 1-3), current text from the Revised Laws (2023), 1 version",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}

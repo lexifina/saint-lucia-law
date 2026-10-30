@@ -1,0 +1,13 @@
+The legal text is the Constitution of Saint Lucia as published in the Revised Laws of Saint Lucia (2023) by the
+Attorney General's Chambers of Saint Lucia (https://www.attorneygeneralchambers.com). The site states no licence.
+Under the Copyright Act of Saint Lucia (Cap. 13.07), section 24(4) and (5), copyright in works made or first
+published by or under the direction of the Government belongs initially to the Crown. The text is reproduced
+without change to its wording, as a public record of the law, with attribution to its publisher.
+
+Changes made by Lexifina: the text was converted to one Markdown file per provision, one paragraph per line;
+the amendment notes printed under each provision were left out. The text was arranged as a git commit.
+Lexifina does not claim the Attorney General's Chambers endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
