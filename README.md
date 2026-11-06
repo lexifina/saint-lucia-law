@@ -1,5 +1,7 @@
 # Saint Lucia: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Saint Lucia's national law, which global-law reads at `saint-lucia/national/acts/`.
+
 The Constitution of Saint Lucia as a git repository: one file per provision, with the publisher of the text as the commit's author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `lc/`.
 
 **What is in it now**
