@@ -57,6 +57,7 @@ That version is the "oldest version available", credited to the publisher, `Atto
 - On 30 October 2026 the whole text was read again from the source and compared with the stored text: all 129 units matched.
 - `tools/build.py` writes the history from the corpus in one pass, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the corpus's sha256 and the builder's hashes.
 - History is append-only: no merge commits and nothing rewritten.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -76,6 +77,10 @@ That version is the "oldest version available", credited to the publisher, `Atto
 See [`LICENSE`](LICENSE). The Attorney General's Chambers state no licence; under the Copyright Act (Cap. 13.07), section 24(4) and (5), copyright in works made or first published by or under the direction of the Government belongs to the Crown. The text is reproduced without change to its wording, as a public record of the law, with attribution to its publisher; Lexifina's own contributions (the arrangement, commit messages, tables and tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text; the scripts that read the sources and build this repository were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
