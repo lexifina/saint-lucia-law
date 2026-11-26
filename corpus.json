@@ -1,0 +1,11 @@
+{
+  "corpus": "lc/national/acts",
+  "name": "Saint Lucia: the Constitution (Revised Laws 2023), and Acts of Parliament and Statutory Instruments as enacted or made, from the Government Printer (npc.govt.lc)",
+  "label": "Saint Lucia",
+  "language": "en",
+  "folders": [
+    "constitution",
+    "acts",
+    "statutory-instruments"
+  ]
+}

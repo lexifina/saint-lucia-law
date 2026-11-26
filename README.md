@@ -9,11 +9,13 @@ The law of Saint Lucia as a git history: one file per section, one commit per ve
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Saint Lucia's national law, which global-law reads at `saint-lucia/national/acts/`.
 
-**What is in it now:** the Constitution of Saint Lucia, in one version so far (129 files: the preamble, sections 1 to 124 and 108A, and Schedules 1 to 3), its current text from the Revised Laws of Saint Lucia (2023). There is no `PLAN.md`; [`REPRODUCE.md`](REPRODUCE.md) lists the act and its version, and [`data/laws.csv`](data/laws.csv) the four laws the source names as having made the text.
+**What is in it now:** the Constitution of Saint Lucia (current text from the Revised Laws of Saint Lucia, 2023), and the Acts of Parliament from 2003 and Statutory Instruments from 2001 as enacted or made, the Criminal Code 2004 among them, from the Government Printer's PDFs; they are still being added. Layout: [`STRUCTURE.md`](STRUCTURE.md); how it is built: [`REPRODUCE.md`](REPRODUCE.md); what was held back and why: [`data/held.json`](data/held.json).
 
 The Constitution is in [`constitution/`](constitution/), with one file per section, schedule and the preamble, plus a `README.md` listing them (`constitution/sec-010.md` is section 10, Protection of freedom of expression).
 
-The text is in English, as the Revised Laws print it; the amendment notes printed under each section are left out.
+Acts are in `acts/<year>/<number>-<slug>/` and Statutory Instruments in `statutory-instruments/<year>/<number>-<slug>/`, one file per section (`acts/2004/009-criminal-code/section-004.md` is section 4 of the Criminal Code).
+
+The text is in English, as the Revised Laws and the Government Printer print it; the amendment notes printed under each section of the Revised Laws are left out.
 
 ## Questions as git commands
 
@@ -47,7 +49,8 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 
 Each commit is dated at noon, America/St_Lucia, on the day the version took effect, and carries it in its `In-force:` trailer. The Revised Laws publish only the current text, so:
 
-- the one version is dated 27 March 2023, the day the source gives for the newest amendment it lists (Act 7 of 2023).
+- the one version of the Constitution is dated 27 March 2023, the day the source gives for the newest amendment it lists (Act 7 of 2023);
+- each Act and Statutory Instrument is dated by the commencement day it states, the day a commencement instrument appoints for it, or else the Gazette date printed under its long title; its `In-force-basis:` trailer says which.
 
 That version is the "oldest version available", credited to the publisher, `Attorney General's Chambers of Saint Lucia (Revised Laws of Saint Lucia)`; its message names the laws the source lists as having made the text (the Saint Lucia Constitution Order 1978, Act 17 of 1980, Act 2 of 2023 and Act 7 of 2023).
 
@@ -63,7 +66,8 @@ That version is the "oldest version available", credited to the publisher, `Atto
 
 - **Earlier versions of the Constitution.** The Order as made in 1979, the 1980 change to section 25, the 2006 revised edition and Act 2 of 2023 are not built.
 - **The rest of the Order.** Only Schedule 1 to the Saint Lucia Constitution Order 1978 (the Constitution) is here, not the Order itself or later instruments on the same pages.
-- **Other law.** No other act (the Criminal Code and the Data Protection Act among them), no subsidiary legislation and no case law.
+- **Consolidated texts.** Acts and Statutory Instruments are as enacted or made; their later amendments are separate commits in their own folders, not applied to the text. The Revised Laws chapters (the Civil Code and the Code of Civil Procedure among them) and Acts before 2003 are not here: the Revised Laws site did not answer on 26 November 2026.
+- **Case law** is kept in a separate repository.
 - **The amendment notes** printed under each section, which say which act changed it.
 
 ## Sources
@@ -71,10 +75,11 @@ That version is the "oldest version available", credited to the publisher, `Atto
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Revised Laws of Saint Lucia (2023)](https://attorneygeneralchambers.com/laws-of-saint-lucia/) (Attorney General's Chambers) | Consolidated laws | no, current text only | Each section's text and the amending acts the act page lists, with their in-force days |
+| [National Printing Corporation](https://npc.govt.lc/laws/acts) (Government Printer) | Acts 2003-2026, Statutory Instruments 2001-2026, as enacted or made | each instrument as printed | PDFs with a text layer; read 26 November 2026; no terms of use found |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The Attorney General's Chambers state no licence; under the Copyright Act (Cap. 13.07), section 24(4) and (5), copyright in works made or first published by or under the direction of the Government belongs to the Crown. The text is reproduced without change to its wording, as a public record of the law, with attribution to its publisher; Lexifina's own contributions (the arrangement, commit messages, tables and tools) are CC0 1.0.
+See [`LICENSE`](LICENSE). The Attorney General's Chambers and the National Printing Corporation state no licence; under the Copyright Act (Cap. 13.07), section 24(4) and (5), copyright in works made or first published by or under the direction of the Government belongs to the Crown. The text is reproduced without change to its wording, as a public record of the law, with attribution to its publisher; Lexifina's own contributions (the arrangement, commit messages, tables and tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text; the scripts that read the sources and build this repository were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
