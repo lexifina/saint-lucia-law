@@ -292,6 +292,8 @@ def plan(have, used_dirs, limit):
                 HELD.append((u2, t2, "a second copy of the same instrument (the one with the fuller text layer is used)"))
         if url in have or r["sha256"] in have:
             continue
+        if not r.get("pages"):
+            HELD.append((url, title, "the PDF is password-protected and does not open without a password (not opened)")); continue
         pages = max(1, r.get("pages") or 1)
         if (r.get("text_chars") or 0) < 60 * pages:
             HELD.append((url, title, f"no text layer ({r.get('pages')} pages, {r.get('text_chars')} characters): page scans, not OCRed")); continue
